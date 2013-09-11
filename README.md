@@ -10,3 +10,5 @@ haha
 iam master
 
 test branch
+
+test alias
