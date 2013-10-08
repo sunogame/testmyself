@@ -7,3 +7,4 @@ SingleNumberII
 Populating Next Right Pointers in Each Node II
 SearchinRotatedSortedArray
 TextJustification
+NextPermutation
