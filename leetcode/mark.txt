@@ -8,3 +8,9 @@ Populating Next Right Pointers in Each Node II
 SearchinRotatedSortedArray
 TextJustification
 NextPermutation
+
+
+https://docs.google.com/spreadsheet/pub?key=0Aqt--%20wSNYfuxdGxQWVFsOGdVVWxQRlNUVXZTdEpOeEE&output=html
+
+http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html
+http://blog.liancheng.info/job-hunting-in-california/#.UlURdBti3eo
