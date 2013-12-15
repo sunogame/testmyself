@@ -8,6 +8,7 @@ Populating Next Right Pointers in Each Node II
 SearchinRotatedSortedArray
 TextJustification
 NextPermutation
+Reorder List
 
 
 https://docs.google.com/spreadsheet/pub?key=0Aqt--%20wSNYfuxdGxQWVFsOGdVVWxQRlNUVXZTdEpOeEE&output=html
